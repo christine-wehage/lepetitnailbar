@@ -1,0 +1,19 @@
+.title {
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.btn-primary {
+	background-color: #f1a5a5!important;
+    border-color: #f1a5a5!important;
+}
+
+main {
+    margin: 3em;
+}
+
+#banner {
+    background-image: url("images/background.png");
+    background-color: #ffffff;
+    margin: 1em 1em 3em!important;
+}
